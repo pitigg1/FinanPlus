@@ -1,0 +1,22 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+# Gradle
+.gradle/
+build/
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+# Logs and temps
+*.log
+*.tmp
+# Environment variables and secrets
+.env
+application-local.properties
+application-secret.properties
+# OS
+.DS_Store
+Thumbs.db
